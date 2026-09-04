@@ -37,3 +37,4 @@ Notes and usage details for terminal-vocab-drill.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
