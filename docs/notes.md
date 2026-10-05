@@ -41,3 +41,4 @@ Notes and usage details for terminal-vocab-drill.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
